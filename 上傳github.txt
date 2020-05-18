@@ -1,6 +1,13 @@
 echo "# AI_Mongo" >> README.md
+第一次上傳
 git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/elephon1/AI_Mongo.git
 git push -u origin master
+
+
+之後更新
+git add .
+git commit -am "make it better"
+git push origin master
